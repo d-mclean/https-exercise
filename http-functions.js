@@ -2,6 +2,8 @@
 
   Step 5 - Make it a Module - helper module.
 
+  Note: the callback (printHTML), should have been in the other js file.
+
 */
 
 var self = module.exports = {
